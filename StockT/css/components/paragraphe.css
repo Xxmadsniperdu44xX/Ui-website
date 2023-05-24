@@ -1,0 +1,19 @@
+.paragraphe {
+	width :1300px;
+	margin:10px auto;
+	background: white;                         
+	padding: 30px;                            
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);   
+	text-align: center;
+}
+
+.paragraphe1 {
+	width :250px;
+	margin:10px auto;
+	background: white;                         
+	padding: 30px;                            
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);   
+	text-align: center;
+}

@@ -1,0 +1,9 @@
+.btn-black{
+  background-color: black;
+  color: rgb(255, 255, 255);
+	padding: 15px 20px;
+	text-decoration: none;
+}
+.btn-black:hover{
+	background-color: darkgrey;
+}

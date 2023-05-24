@@ -1,0 +1,31 @@
+.banner {
+	background-image:  linear-gradient(-225deg, rgba(0, 253, 0, 0.8) 0%, rgba(175, 253, 0, 0.4) 60%), url(../../background.png);
+	color:black;
+	padding:150px 0px;
+	background-size: left;
+	background-position : center;
+}
+.banner h1{
+	font-size : 50 px;
+}
+.banner p{
+	font-size : 30 px;
+	font-weight : lighter;
+	opacity : 0.8;
+	margin-bottom : 60 px;
+}
+.banner1{
+	background-image: url(../../festival.jpg);
+	color:black;
+	padding:150px 0px;
+	  margin-top: -10px;
+ 	 margin-bottom: -10px;
+ 	   padding-top: 5px;
+  padding-bottom: 5px;
+	background-position : relative;
+	margin-bottom: 30px;
+}
+.banner1 h1{
+	font-size : 1000 px;
+	color: white;
+}
